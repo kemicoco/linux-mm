@@ -1,2 +1,3 @@
 # linux-mm
-kernel memory management development, used for testing the latest kernel mainline
+kernel memory management development, used for kernel memory test
+
